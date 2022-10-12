@@ -3,9 +3,7 @@
 參考網站：
 
 猜拳(遊戲)
-Unity通過點擊按鈕進行場景切換：https://blog.csdn.net/qq_29412103/article/details/80688267
-Unity rock paper scissors game：https://www.youtube.com/watch?v=UcXKRvT7jhk 
-Unity3D - Rock, Paper and Scissor：https://www.youtube.com/watch?v=4JoSHfuwjvI
+Unity通過點擊按鈕進行場景切換：
 
 數字猜謎(遊戲)
 http://www.morningfungame.com/2019/05/unity.html
