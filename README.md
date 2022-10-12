@@ -4,13 +4,22 @@
 
 猜拳(遊戲)
 Unity通過點擊按鈕進行場景切換：
+https://blog.csdn.net/qq_29412103/article/details/80688267
+
+Unity rock paper scissors game：
+https://www.youtube.com/watch?v=UcXKRvT7jhk
+
+Unity3D - Rock, Paper and Scissor：
+https://www.youtube.com/watch?v=4JoSHfuwjvI
 
 數字猜謎(遊戲)
+
 http://www.morningfungame.com/2019/05/unity.html
 https://www.youtube.com/watch?v=kzukcEaXTjw
 
 貪食蛇(遊戲)
 主要(遊戲)
+
 https://noobtuts.com/unity/2d-snake-game
 https://www.youtube.com/watch?v=rjOno6eGiYI
 https://blog.csdn.net/u014453318/article/details/48103995
@@ -19,6 +28,7 @@ https://www.itread01.com/content/1512476405.html
 http://whatsknowhow.blogspot.com/2014/04/unity.html
 
 次要(按鈕)
+
 https://coolmandiary.blogspot.com/2017/06/unitytag.html
 https://zh.codeprj.com/blog/9487471.html
 https://www.itread01.com/content/1541796559.html
